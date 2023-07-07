@@ -62,3 +62,14 @@
 .text2{
     font-size:20px;
 }
+.about{
+    display: flex;
+    align-items:center ;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+.about-us{
+    text-align: center;
+    font-size: 55px;
+    
+}
