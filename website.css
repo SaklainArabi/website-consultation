@@ -73,3 +73,28 @@
     font-size: 55px;
     
 }
+.box{
+    height: 280px;
+    width: 220px;
+    box-shadow: 10px 4px 8px grey;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.sicon{
+width: 80px;
+}
+.box-btn{
+    background-color: gray;
+}
+.service{
+    display: flex;
+justify-content: space-around;
+background-image: url(./background.png),linear-gradient(180deg,rgb(6, 6, 6),rgb(41, 42, 41));
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
